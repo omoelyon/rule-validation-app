@@ -1,0 +1,26 @@
+{
+  "name": "rule-validation-app",
+  "version": "1.0.0",
+  "description": "a rule validation application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omoelyon/rule-validation-app.git"
+  },
+  "author": "Adeola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omoelyon/rule-validation-app/issues"
+  },
+  "homepage": "https://github.com/omoelyon/rule-validation-app#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^13.1.0",
+    "jsend-express": "^1.2.4",
+    "nodemon": "^2.0.7"
+  }
+}
